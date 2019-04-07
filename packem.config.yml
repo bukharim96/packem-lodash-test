@@ -1,0 +1,8 @@
+# Packem Configuration
+root: ./index.js
+output: ./build-packem/bundle.js
+transformer:
+  include: ./**/*.js
+  exclude: node_modules
+  babelPresets: ["@babel/preset-env"]
+  babelPlugins: []
