@@ -1,0 +1,8 @@
+# Packem Configuration
+input: ./index.js
+output: ./build-packem/lodash.js
+format: cjs
+transformer: # @todo take (in|ex)cludes into account
+  include: ./**/*.js
+  exclude: node_modules
+  babelPresets: ["@babel/preset-env"]

@@ -1,6 +1,6 @@
 {
-  "name": "packem-lodash-test",
-  "version": "0.1.0",
+  "name": "lodash",
+  "version": "5.0.0",
   "license": "MIT",
   "private": true,
   "main": "lodash.js",
