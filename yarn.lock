@@ -2696,9 +2696,9 @@ doctrine@^2.0.0:
   dependencies:
     esutils "^2.0.2"
 
-dojo@^1.12.1:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.15.0.tgz#af8dc3e18b7c46305569affcf7e479de68d0e40f"
+dojo@^1.13.7:
+  version "1.13.7"
+  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.13.7.tgz#8dcdb017c8fd0d001638e9447a67f286c248bff6"
 
 dom-serializer@0, dom-serializer@~0.1.0:
   version "0.1.1"
